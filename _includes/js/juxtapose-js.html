@@ -1,0 +1,20 @@
+<link rel="stylesheet" href="{{ '/assets/lib/juxtapose.css' | relative_url }}">
+<script src="{{ '/assets/lib/juxtapose.min.js' | relative_url }}"></script>
+<script>
+    // init Juxtapose https://github.com/NUKnightLab/juxtapose
+    // add imgs for Juxtapose js 
+    var juxtaposeImages = [ { src: "{{ '/assets/img/illustration_blank.jpg' | relative_url }}" }, { src: "{{ '/assets/img/illustration_full_color.jpg' | relative_url }}" } ];
+    // init
+    function createJuxtapose() {
+        slider = new juxtapose.JXSlider('#juxta-embed', juxtaposeImages,
+        {
+            animate: true,
+            showLabels: true,
+            showCredits: true,
+            startingPosition: "75%",
+            makeResponsive: true
+        });
+    }
+    createJuxtapose();
+    
+</script>

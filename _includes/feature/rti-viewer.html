@@ -1,0 +1,80 @@
+{% comment %}
+
+    Embed a viewer to display an RTI image in your content.
+
+    Include assumes RTI items have be preprocessed into Relight format (each item will be a folder containing info.json and several jpegs).
+    Options:
+    - "objectid" = several options below (required)
+        1. an objectids from this collection of an RTI item, e.g. "demo_001" 
+        2. a relative link to the folder of an RTI item stored in this repository, e.g. "/objects/rti-ex-001"
+        2. a full URL to an externally hosted folder of an RTI item, e.g. "https://www.example.edu/objects/rti-ex-001"
+    - "caption" = when using an objectid, the title of the item for your metadata will be added by default. The caption option allows you to manually add a different caption, or give the value false for none. (optional)
+    - "link" = when using an objectid, the figure include automatically links to the item from your metadata. The link option allows you to manually add a different link over the caption. (optional)
+
+    Check the javascript comments in the script below to turn UI options on or off (light mode, layers, zoom, rotate).
+
+    Based on OpenLIME viewer, https://github.com/cnr-isti-vclab/openlime
+    as implemented in the Relight Demo, https://github.com/cnr-isti-vclab/relight
+
+{% endcomment %}
+{% if include.objectid contains "/" %}
+{%- capture src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
+{%- capture rti_caption -%}{% if include.link %}<a href="{{ include.link }}">{{ include.caption }}</a>{% else %}{{ include.caption }}{% endif %}{%- endcapture -%}
+{% else %}
+{%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
+{%- capture src -%}{{ item.object_location | relative_url }}{% endcapture %}
+{%- capture item_link -%}{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}{%- endcapture -%}
+{%- capture rti_caption -%}<a href="{{ include.link | default: item_link }}">{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}</a>{%- endcapture -%}
+{% endif %}
+<link rel="stylesheet" href="{{ '/assets/lib/relight/css/skin.css' | relative_url }}"/>
+<style>
+#openlime_{{ include.objectid | slugify | truncate: 12, "" }} {
+	position:relative;
+	height: 100%
+}
+#openlime_{{ include.objectid | slugify | truncate: 12, "" }}>canvas {
+	width: 100%;
+	height: 100%;
+	/* this is important, it would cause firefox flickering! */
+	overflow: hidden;
+}
+</style>
+
+<div class="text-center my-4">
+    <figure class="figure border rounded p-3 feature-w-{{ include.width | default: '100' }}">
+    
+        <div id="openlime_{{ include.objectid | slugify | truncate: 12, "" }}"></div>
+        {% unless include.caption == false %}<figcaption class="figure-caption">{{ rti_caption }}</figcaption>{% endunless %}
+    </figure>
+</div>
+
+<script src="{{ '/assets/lib/relight/js/openlime.min.js' | relative_url }}"></script>
+<script>
+
+async function initViewer() {
+
+	var lime = new OpenLIME.Viewer('#openlime_{{ include.objectid | slugify | truncate: 12, "" }}', { background:'black' });
+	let layer = new OpenLIME.Layer({ 
+		layout: 'image', 
+		type:'rti',
+		url: '{{ src }}/info.json'
+	});
+	lime.canvas.addLayer('RTI', layer); 
+	OpenLIME.Skin.setUrl('{{ "/assets/lib/relight/css/skin.svg" | relative_url }}');
+	let ui = new OpenLIME.UIBasic(lime, { skin: 'skin.svg', showLightDirections: true });
+	// turn on light mode
+	ui.actions.light.active = true;
+	// display layer button
+	ui.actions.layers.display = true;
+	// display zoom controls
+	ui.actions.zoomin.display = true;
+	ui.actions.zoomout.display = true;
+	// display rotate button
+	ui.actions.rotate.display = true;
+	lime.camera.maxFixedZoom = 1;
+	window.lime = lime;
+}
+
+initViewer();
+
+</script>

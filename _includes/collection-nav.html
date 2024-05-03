@@ -1,0 +1,63 @@
+<nav class="navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand text-dark {% if page.layout == 'home' %}text-white{% endif %}" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <button class="navbar-toggler {% if page.layout == 'home' %}text-white{% else %}text-dark bg-light{% endif %}" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Open navigation">
+            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+              </svg>
+        </button>
+        
+        <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header">
+                <h2 class="offcanvas-title" id="offcanvasNavbarLabel">{{ site.title }}</h2>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <p class="h5 mb-3">{{ site.tagline }}</p>
+                <p><small>{{ site.description }}</small></p>
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                    <li class="nav-item dropdown">  
+                        {%- assign essayStubs = site.essay | map: 'url' -%}
+                        <a class="nav-link dropdown-toggle{% if essayStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Read the Essay</a>
+                        <div class="dropdown-menu dropdown-menu-dark">
+                            {% for e in site.essay %}
+                            <a class="dropdown-item {% if page.url == e.url %}active{% endif %}" href="{{ e.url | relative_url }}">{% if e.chapter %}{{ e.chapter }}. {% endif %}{{ e.title }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%} 
+                    {% for nav in navItems %}
+                    {% if nav.stub %}
+                    <li class="nav-item">
+                        <a class="nav-link{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+                    </li>
+                    {%- else -%}
+                    <li class="nav-item dropdown">
+                        {% assign navChildren = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
+                        {%- assign childStubs = navChildren | map: 'stub' -%}
+                        <a class="nav-link  dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ nav.display_name }}</a>
+                        <div class="dropdown-menu">
+                            {% for c in navChildren %}
+                            <a class="dropdown-item {% if page.url == c.stub %}active{% endif %}" href="{{ c.stub | relative_url }}">{{ c.display_name }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                    {% endif %}
+                    {%- endfor -%}
+                </ul>
+
+                <div class="mt-5">
+                    <a href="https://www.theconfluencelab.org/" target="_blank" rel="noopener">
+                        <img class="img-fluid sidebar-nav-image" src="{{ '/assets/img/confl-lab-logo-rev-white.png' | relative_url }}" title="The Confluence Lab" alt="Confluence home" >
+                    </a>
+                </div>
+                <div class="mt-5">
+                    <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">
+                        <img class="img-fluid sidebar-nav-image" src="https://cdil.lib.uidaho.edu/assets/img/logo.png" title="Center for Digital Inquiry and Learning (CDIL)" alt="CDIL home" >
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>

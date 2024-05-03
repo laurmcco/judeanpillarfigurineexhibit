@@ -1,0 +1,4 @@
+objectid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript,museum_link
+rti-001,RTI Center View,,,,,,,,,,,,,,,rti_viewer,/objects/rti-center,/objects/small/rti-center_sm.jpg,/objects/thumbs/rti-center_th.jpg,,
+rti-002,RTI Left View,,,,,,,,,,,,,,,rti_viewer,/objects/rti-left,/objects/small/rti-left_sm.jpg,/objects/thumbs/rti-left_th.jpg,,
+rti-003,RTI Right View,,,,,,,,,,,,,,,rti_viewer,/objects/rti-right,/objects/small/rti-right_sm.jpg,/objects/thumbs/rti-right_th.jpg,,,https://www.psr.edu/centers/bade-museum/

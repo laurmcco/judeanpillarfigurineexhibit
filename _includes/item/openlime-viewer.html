@@ -1,0 +1,58 @@
+{% comment %}
+
+    Add OpenLIME viewer to display an RTI image item.
+
+    Include assumes RTI items have be preprocessed into Relight format (each item will be a folder containing info.json and several jpegs).
+    Item metadata "object_location" value should be the relative path or full url to the item's folder (e.g. "/objects/rti-ex-001" ).
+    Check the javascript comments in the script below to turn UI options on or off (light mode, layers, zoom, rotate).
+
+    Based on OpenLIME viewer, https://github.com/cnr-isti-vclab/openlime
+    as implemented in the Relight Demo, https://github.com/cnr-isti-vclab/relight
+
+{% endcomment %}
+<link rel="stylesheet" href="{{ '/assets/lib/relight/css/skin.css' | relative_url }}"/>
+<style>
+#openlime {
+	position:relative;
+	height: 100%
+}
+#openlime>canvas {
+	width: 100%;
+	height: 100%;
+	/* this is important, it would cause firefox flickering! */
+	overflow: hidden;
+}
+</style>
+
+<div id="openlime"></div>
+
+<script src="{{ '/assets/lib/relight/js/openlime.min.js' | relative_url }}"></script>
+<script>
+
+async function initViewer() {
+
+	var lime = new OpenLIME.Viewer('#openlime', { background:'black' });
+	let layer = new OpenLIME.Layer({ 
+		layout: 'image', 
+		type:'rti',
+		url: '{{ page.object_location | relative_url }}/info.json'
+	});
+	lime.canvas.addLayer('RTI', layer); 
+	OpenLIME.Skin.setUrl('{{ "/assets/lib/relight/css/skin.svg" | relative_url }}');
+	let ui = new OpenLIME.UIBasic(lime, { skin: 'skin.svg', showLightDirections: true });
+	// turn on light mode
+	ui.actions.light.active = true;
+	// display layer button
+	ui.actions.layers.display = true;
+	// display zoom controls
+	ui.actions.zoomin.display = true;
+	ui.actions.zoomout.display = true;
+	// display rotate button
+	ui.actions.rotate.display = true;
+	lime.camera.maxFixedZoom = 1;
+	window.lime = lime;
+}
+
+initViewer();
+
+</script>
