@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://juliastone0729.github.io
+url: https://laurmcco.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /jpf_test
+baseurl: /judeanpillarfigurineexhibit
 # location of code, the full url to your github repository
-source-code: https://github.com/juliastone0729/jpf_test
+source-code: https://github.com/laurmcco/judeanpillarfigurineexhibit
 
 ##########
 # SITE SETTINGS
@@ -25,7 +25,7 @@ tagline: Exploring Guardian Iconography of the Judean Pillar Figurine
 # this description might appear in search result lists, keep around 160 characters max
 description: "This digital exhibit for the Badè Museum of Biblical Archaeology presents one Judean Pillar Figurine that has been recolorized using Reflectance Transformation Imaging and Decorrelation Stretch Imaging."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: figurines;iconography;reflectance transformation imaging
+keywords: figurines; iconography; reflectance transformation imaging
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Lauren McCormick
 publication_date: 2024
