@@ -1,5 +1,5 @@
 ---
 title: Think About Religion
-layout: page
+layout: essay
 permalink: /religion.html
 ---
