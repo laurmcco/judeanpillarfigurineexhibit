@@ -1,5 +1,5 @@
 ---
-title: "About Let There Be Light: Judean Pillar Figurine Exhibit"
+title: "About Let There Be Light"
 layout: essay
 permalink: /about.html
 ---
