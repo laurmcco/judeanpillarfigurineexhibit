@@ -24,4 +24,4 @@ Let There Be Light explores various cutting-edge technologies, approaches, and i
 
 **The Author.** Lauren K. McCormick is a postdoctoral research associate at Princeton University’s Center for Culture, Society, and Religion. She has degrees from Rutgers University, New York University, Duke University, and Syracuse University.
 
-**The Project.** This web exhibit takes an immersive, multi-modal approach to the JPFs. All objects presented are from the collection of the Badè Museum at Pacific School of Religion (Berkeley, CA). They derive from Tell en-Naṣbeh, the likely biblical site of Mizpah. 
+**The Project.** This web exhibit takes an immersive, multi-modal approach to the JPFs. All objects presented are from the collection of the Badè Museum at Pacific School of Religion (Berkeley, CA). They derive from Tell en-Naṣbeh, the likely biblical site of Mizpah.
