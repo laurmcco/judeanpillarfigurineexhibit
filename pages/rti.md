@@ -15,8 +15,8 @@ Hidden box 1 reads “In what area does paint leave an imprint on the surface?�
 Hidden box 2, reads: “Why might the pupil paint leave a different footprint on the surface than the rest of the paint?” then when users clock the box this text appears: “It seems that the paint was applied in more layers at the pupil than it was in other areas, like the eyeliner or the (very colorful!) neck. Check out the general lack of imprint paint leaves on these areas compared to the pupil.
 
 
-{% include feature/rti-viewer.html objectid="bad_0013" %}
-    
 {% include feature/rti-viewer.html objectid="bad_0014" %}
+    
+{% include feature/rti-viewer.html objectid="bad_0013" %}
 
 {% include feature/rti-viewer.html objectid="bad_0015" %}
