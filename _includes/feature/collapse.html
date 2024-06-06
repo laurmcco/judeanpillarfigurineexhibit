@@ -1,0 +1,30 @@
+{% comment %}
+
+    Bootstrap collapse feature, https://getbootstrap.com/docs/5.3/components/collapse/
+
+    e.g. --> {% include feature/collapse.html button="More Info" color="info" title="Information" text="Example text" %}
+
+    Options:
+    - For the button: 
+        - "button" = text of button to trigger collapse (required)
+        - "color" = a bootstrap color for the button (primary, secondary, success, danger, warning, info, light, dark) (optional, default: primary)
+    - For the collapse card:
+        - "text" = main card text, can use markdown formatting (tip: use a Liquid capture to add more complex content)
+        - "header" = card header text (in bar above card content) (optional)
+        - "title" = card title text inside card content area (optional)
+
+{%- endcomment -%}
+<!-- Button trigger collapse -->
+<div class="mb-3">
+    <button type="button" class="btn btn-lg btn-{{ include.color | default: 'primary' }}" data-bs-toggle="collapse" data-bs-target="#{{ include.button | slugify }}Collapse" aria-expanded="false" aria-controls="{{ include.button | slugify }}Collapse">{{ include.button }}</button>
+</div>
+<!-- collapse card -->
+<div class="collapse" id="{{ include.button | slugify }}Collapse">
+    <div class="card mb-3">
+        {% if include.header %}<h3 class="card-header py-0 h3">{{ include.header }}</h3>{%- endif -%}
+        <div class="card-body">
+            {% if include.title %}<h3 class="card-title py-0 h3">{{ include.title }}</h3>{%- endif -%}
+            <div class="card-text">{{ include.text | markdownify }}</div>
+        </div>
+    </div>
+</div>

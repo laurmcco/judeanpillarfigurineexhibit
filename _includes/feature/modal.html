@@ -12,8 +12,8 @@
 
 {%- endcomment -%}
 <!-- Button trigger modal -->
-<div class="text-center mb-3">
-    <button type="button" class="btn btn-{{ include.color | default: 'primary' }}" data-bs-toggle="modal" data-bs-target="#{{ include.button | slugify }}Modal">{{ include.button }}</button>
+<div class="mb-3">
+    <button type="button" class="btn btn-lg btn-{{ include.color | default: 'primary' }}" data-bs-toggle="modal" data-bs-target="#{{ include.button | slugify }}Modal">{{ include.button }}</button>
 </div>
 <!-- Modal -->
 <div class="modal fade" id="{{ include.button | slugify }}Modal" tabindex="-1" role="dialog" aria-labelledby="{{ include.button | slugify }}ModalLabel" aria-hidden="true">
