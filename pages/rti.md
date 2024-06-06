@@ -4,7 +4,7 @@ layout: essay
 permalink: /rti.html
 ---
 
-Welcome to the RTI Laboratory. Here is where you can view and manipulate three RTIs of a Judean Pillar Figurine fragment. This is a special object for the amount of paint it still contains. 
+Welcome to the Reflectance Transformation Imaging Laboratory. Here is where you can view and manipulate three RTIs of a Judean Pillar Figurine fragment. This is a special object for the amount of paint it still contains. 
 
 Click anywhere on the RTI images to change the direction of a virtual light. Zoom in to observe the figurine's surface and anything of interest upon it (for example indentations, brush strokes, paint). Click the "layers" icon to explore various rendering environments: “normals” shows the surface shape through false color, “diffuse” shows surface shape with color removed, and “specular” shows the surface with a shiny quality. In "specular" mode, you can manipulate the direction of light at the same time that you increase or decrease the light’s intensity via a slider.
 
