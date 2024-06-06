@@ -16,4 +16,4 @@ Judean Pillar Figurines are a popular topic in biblical studies that have also c
 
 This web exhibit will give audiences the chance to see Judean Pillar Figurines again, in a new light. Reflectance Transformation Imaging makes it possible to view never-before seen surface details of Judean Pillar Figurines. Decorrelation Stretch imaging utilizes remote sensing to exaggerate faint traces of paint. Together these tools unlock new avenues of interpretation for the interpretation. 
 
-How does technology affect our ability to see then interpret ancient artifacts?
+How does technology affect our ability to see and interpret ancient artifacts?
