@@ -15,3 +15,29 @@ Let There Be Light explores various cutting-edge technologies, approaches, and i
 **The Author.** Lauren K. McCormick is a postdoctoral research associate at Princeton University’s Center for Culture, Society, and Religion. She has degrees from Rutgers University, New York University, Duke University, and Syracuse University.
 
 **The Project.** This web exhibit takes an immersive, multi-modal approach to the JPFs. All objects presented are from the collection of the Badè Museum at Pacific School of Religion (Berkeley, CA). They derive from Tell en-Naṣbeh, the likely biblical site of Mizpah. Support to develop the web exhibit was provided by the [CollectionBuilder](https://collectionbuilder.github.io/) project including Julia Stone and Evan Peter Williamson from the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) at University of Idaho Library.
+
+<p class="mb-3">
+    <a href="https://www.psr.edu/centers/bade-museum/" target="_blank" rel="noopener" title="Badè Museum of Biblical Archaeology">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="{{ '/assets/img/BADE-PSR-Color.webp' | relative_url }}" alt="Badè Museum of Biblical Archaeology" >
+    </a>
+</p>
+<p class="mb-3">
+    <a href="https://csr.princeton.edu/" target="_blank" rel="noopener" title="Center for Culture Society and Religion">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="{{ '/assets/img/CSR_Brand_Logo_Color_2 lines_type0.webp' | relative_url }}" alt="Center for Culture Society and Religion" >
+    </a>
+</p>
+<p class="mb-3">
+    <a href="https://princeton.edu/" target="_blank" rel="noopener" title="Princeton University">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="{{ '/assets/img/Princeton_University_logo.svg' | relative_url }}" alt="Princeton University" >
+    </a>
+</p>
+<p class="mb-3">
+    <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener" title="Center for Digital Inquiry and Learning">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="https://cdil.lib.uidaho.edu/assets/img/cdil-logo-black.svg" alt="Center for Digital Inquiry and Learning (CDIL)" >
+    </a>
+</p>
+<p class="mb-3">
+    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="{{ '/assets/img/collectionbuilder-logo.png' | relative_url }}" title="Center for Digital Inquiry and Learning" alt="gold CollectionBuilder logo" >
+    </a>
+</p>
