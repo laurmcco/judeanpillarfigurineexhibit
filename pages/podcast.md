@@ -4,4 +4,4 @@ layout: essay
 permalink: /podcast.html
 ---
 
-{% include feature/image.html objectid="/objects/podcast_image.jpg" %}
+{% include feature/image.html objectid="/objects/podcast_image2.jpg" %}
