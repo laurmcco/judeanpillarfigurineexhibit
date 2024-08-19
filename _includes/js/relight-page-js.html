@@ -1,0 +1,89 @@
+<!-- full screen modal for rti viewer-->
+<div class="modal fade" id="modelModal" tabindex="-1" aria-labelledby="modelModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="modelModalLabel">{{ page.title }}</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="modelContainer" class="h-100"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="{{ '/assets/lib/relight/css/skin.css' | relative_url }}"/>
+<style>
+#openlime {
+	position:relative;
+	height: 100%
+}
+#openlime>canvas {
+	width: 100%;
+	height: 100%;
+	/* this is important, it would cause firefox flickering! */
+	overflow: hidden;
+}
+</style>
+<script src="{{ '/assets/lib/relight/js/openlime.min.js' | relative_url }}"></script>
+<script>
+
+    // fullscreen modal parts
+    var modelModal = document.getElementById('modelModal');
+    var modalTitle = document.getElementById('modelModalLabel');
+    var viewerContainer = document.getElementById('modelContainer');
+
+    // openlime viewer function for RTI
+    function initViewer(url) {
+        var lime = new OpenLIME.Viewer('#openlime', { background:'black' });
+        let layer = new OpenLIME.Layer({ 
+            layout: 'image', 
+            type:'rti',
+            url: url
+        });
+        lime.canvas.addLayer('RTI', layer); 
+        OpenLIME.Skin.setUrl('{{ "/assets/lib/relight/css/skin.svg" | relative_url }}');
+        let ui = new OpenLIME.UIBasic(lime, { skin: 'skin.svg', showLightDirections: true });
+        // turn on light mode
+        ui.actions.light.active = true;
+        // display layer button
+        ui.actions.layers.display = true;
+        // display zoom controls
+        ui.actions.zoomin.display = true;
+        ui.actions.zoomout.display = true;
+        // display rotate button
+        ui.actions.rotate.display = true;
+        lime.camera.maxFixedZoom = 1;
+        window.lime = lime;
+    }
+
+    // On modal open load item data
+    modelModal.addEventListener('shown.bs.modal', event => {
+        // btn that triggered modal
+        const btnTrigger = event.relatedTarget;
+        // get item objectid
+        //const itemid = btnTrigger.getAttribute('data-bs-objectid');
+        // get item info
+        const itemTitle = btnTrigger.getAttribute('data-bs-title');
+        const itemLink = btnTrigger.getAttribute('data-bs-itemlink');
+        const itemUrl = btnTrigger.getAttribute('data-bs-url');
+        // display item
+        modalTitle.innerHTML = `<a href="${ itemLink }">${itemTitle}</a>`;
+        
+        // openlime viewer
+        viewerContainer.innerHTML = `<div id="openlime"></div>`;
+        initViewer(itemUrl);
+        
+    });
+    // On modal close 
+    modelModal.addEventListener('hide.bs.modal', event => {
+        // remove the viewers on close
+        viewerContainer.innerHTML = "";
+    });
+
+
+</script>

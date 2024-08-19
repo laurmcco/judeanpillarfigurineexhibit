@@ -2,6 +2,7 @@
 title: Relight Artifacts
 layout: essay
 permalink: /rti.html
+custom-foot: js/relight-page-js.html
 ---
 
 Welcome to the Reflectance Transformation Imaging Laboratory. Here is where you can view and manipulate three RTIs of a Judean Pillar Figurine fragment. This is a special object for the amount of paint it still contains. 
@@ -12,7 +13,7 @@ Click anywhere on the RTI images to change the direction of a virtual light. Zoo
 
 2) Use the layers icon to enter the “normals” mode and the “specular” mode. There is one particular area with a circular mark on the surface. Can you find it? Once you do, or if you can't find it after a few minutes, click the buttons below.
 
-{% include feature/rti-viewer.html objectid="bad_0004" %}
+{% include feature/relight-page-viewer.html objectid="bad_0004" %}
 
 {% include feature/collapse.html button="Where is the circular mark on this figurine's surface?" color="outline-info" text="The pupil. For some reason, there is a rim around the pupil. Switch into the default/”light” mode. What color paint fills the pupil rim? You have just discovered that RTI shows color not only chromatically but through imprints left on the surface, invisible to the naked eye. The pupil is perceptible not only through color but surface imprints. There is a similar circular mark in the other eye, though more faint. Now that you have some experience manipulating a virtual light and observing this artifact's topography, can you find the circular pupil mark in the other eye? It is difficult to see!" %}
 
@@ -22,6 +23,6 @@ We cannot be sure what caused the pupil marks. But RTI expands the conversations
 
 View the remaining 2 RTI images of this artifact to compare views of the pupils, and anything else of interest." %}
    
-{% include feature/rti-viewer.html objectid="bad_0003" %}
+{% include feature/relight-page-viewer.html objectid="bad_0003" %}
 
-{% include feature/rti-viewer.html objectid="bad_0005" %}
+{% include feature/relight-page-viewer.html objectid="bad_0005" %}
