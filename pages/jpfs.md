@@ -14,6 +14,10 @@ Judean Pillar Figurines are a popular topic in biblical studies that have also c
 - Toys
 - Human worshipers 
 
-This web exhibit will give audiences the chance to see Judean Pillar Figurines again, in a new light. Reflectance Transformation Imaging makes it possible to view never-before seen surface details of Judean Pillar Figurines. Decorrelation Stretch imaging utilizes remote sensing to exaggerate faint traces of paint. Together these tools unlock new avenues of interpretation for the interpretation. 
+Neither are scholars sure how these figurines were used. They are usually found broken, leading many to assume ritual "deactivation" once a figurine was used for an intended purpose. Others take breakage as evidence of iconoclasm in ancient Judah, as the Second Cokmmandment might lead one to expect. Yet others conclude that JPFs are broken in structurally weak places, meaning that their breakage is not intentional or meaningful. In fact JPFs were excavated in all manner of places in Judean cities and towns: as fill under floors or in walls, in tombs (usually not broken), in streets and alleys, in public buildings, but most of all in and around homes. The home context opens conversations about JPFs as part of some traditional, unofficial religion (as opposed to elite Temple religion as it is reported in the Bible). 
 
-How does technology affect our ability to see and interpret ancient artifacts?
+Cutting across the majority of interpretations about JPF identity and use is the sense that JPFs were positive figures meant to bring blessing. Virtually all interpreters agree on that much, due to elements like the JPF's slight smile and beneficent posture with hands-at-breasts.
+
+This web exhibit will give audiences the chance to see Judean Pillar Figurines again, in a new light.
+
+For further reading, see:
