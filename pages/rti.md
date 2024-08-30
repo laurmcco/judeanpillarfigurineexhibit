@@ -33,36 +33,32 @@ View the remaining RTI images of this and other artifacts to find new points of 
 
 {% include feature/relight-page-viewer.html objectid="bad_0005" %}
 
-
 ## Give Pause
 
 Do you find that the images carry an air of authority? Do they make you hesitant to question my findings? Like all interpretations, mine must be held up to scrutiny. 
 
 I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent extra time and effort crafting the eyes. However, one needs to be able to read a "normals" image to test that hypothesis, and even then, the data are not incontrovertible. The northwest area of the left pupil has a bulge, but there is surface encrustation in most other places along this pupil's rim. The encrustation obfuscates our view of the evidence required to confirm my interpretation. Encrustation also exists around the pupil rim of the right eye. RTI provides detailed views of B2018.1.1's surface, contributing new data points that invite fresh questions. We should not accept the resulting interpretations without "reading" the RTI images for ourselves, which also involves checking that the images were collected using "best practice" standards that ensure each RTI image is reproducible <https://culturalheritageimaging.org/What_We_Offer/Downloads/DLN/index.html>.
 
-
 ## Uses of RTI
 
--Object documentation, for example to track deterioration over time
+- Object documentation, for example to track deterioration over time
 
--Non-invasive object analysis, for example by providing a window into manufacture without causing any destruction to the object. Manufacture clues reveal artisan intentionality, which presumably reflects artisan values and/or the values of the audiences that created demand for the Judean Pillar Figurines to be made. Manufacture clues can also help modern audiences pursue questions of artisan guilds and trade, for example by tracing distinctive workshops techniques. How many other figurines from Mizpah contain pupil impressions? How many from other sites?
+- Non-invasive object analysis, for example by providing a window into manufacture without causing any destruction to the object. Manufacture clues reveal artisan intentionality, which presumably reflects artisan values and/or the values of the audiences that created demand for the Judean Pillar Figurines to be made. Manufacture clues can also help modern audiences pursue questions of artisan guilds and trade, for example by tracing distinctive workshops techniques. How many other figurines from Mizpah contain pupil impressions? How many from other sites?
 
--Digitization that works toward democratizing access to restricted objects, for example those held by museums. This also curbs (but never replaces) the need for an object to be studied in-person
+- Digitization that works toward democratizing access to restricted objects, for example those held by museums. This also curbs (but never replaces) the need for an object to be studied in-person
 
--Can be combined with other methods, like microscopy
+- Can be combined with other methods, like microscopy
 
--Note: a current drawback of RTI compared to other methods of computational photography like 3D modeling is that RTI does not permit measurement. Also, not all materials respond well to RTI analysis. Shiny objects interfere with the method of RTI capture and are difficult to image.
-
-
+- Note: a current drawback of RTI compared to other methods of computational photography like 3D modeling is that RTI does not permit measurement. Also, not all materials respond well to RTI analysis. Shiny objects interfere with the method of RTI capture and are difficult to image.
 
 ## Go Further
 
 To learn more about RTI, visit:
 
--https://culturalheritageimaging.org/Technologies/RTI/
+- https://culturalheritageimaging.org/Technologies/RTI/
 
--https://www.conservation-wiki.com/wiki/Reflectance_Transformation_Imaging_(RTI)
+- https://www.conservation-wiki.com/wiki/Reflectance_Transformation_Imaging_(RTI)
 
--https://culturalheritageimaging.org/What_We_Do/Publications/
+- https://culturalheritageimaging.org/What_We_Do/Publications/
 
--https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en 
+- https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en 
