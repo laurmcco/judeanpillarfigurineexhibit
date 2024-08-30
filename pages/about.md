@@ -10,7 +10,7 @@ While the RTI Laboratory puts Judean Pillar Figurine data in your hands, the [**
 
 Together, the Let There Be Light web exhibit and Getting Past Religion podcast aim to figuratively and literally illuminate the JPFs, opening new potentialities each time we look and relook, light and relight.
 
-**The Author.** Dr. Lauren K. McCormick is a postdoctoral research associate at Princeton University’s Center for Culture, Society, and Religion. She has degrees from Rutgers University, New York University, Duke University, and Syracuse University.
+**The Author.** Dr. Lauren K. McCormick is a postdoctoral research associate at Princeton University’s Center for Culture, Society, and Religion. She has degrees from Rutgers University, New York University, Duke University, and Syracuse University. 
 
 **The Project.** Let There Be Light is an open educational resource that takes an immersive, multi-modal approach toward cutting-edge technologies, approaches, and ideas driving Religious Studies today. All artifacts presented are from the collection of the Badè Museum at Pacific School of Religion (Berkeley, CA). They derive from Tell en-Naṣbeh, the likely biblical site of Mizpah. Support to develop the web exhibit was provided by the [CollectionBuilder](https://collectionbuilder.github.io/) project including Julia Stone and Evan Peter Williamson from the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) at University of Idaho Library.
 

@@ -59,4 +59,4 @@ To learn more about RTI, visit:
 
 -https://culturalheritageimaging.org/What_We_Do/Publications/
 
--https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en
+-https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en 

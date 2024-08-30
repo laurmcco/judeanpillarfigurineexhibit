@@ -21,4 +21,4 @@ permalink: /religion.html
 
 -THINK LIKE A SOCIOLOGIST: How can RTI data be used to pursue questions of Judean Pillar Figurine workshops and trade?
 
--THINK LIKE AN ANTHROPOLOGIST: How are figurines used and conceptualized in the modern world? Why does this object type have so much staying power?
+-THINK LIKE AN ANTHROPOLOGIST: How are figurines used and conceptualized in the modern world? Why does this object type have so much staying power? 
