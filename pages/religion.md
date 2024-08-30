@@ -4,25 +4,21 @@ layout: essay
 permalink: /religion.html
 ---
 
-I have used this site to democratize access to imaging technology (particularly Reflectance Transformation Imaging) as well as the Judean Pillar Figurines. Do you find that the images carry an air of authority? Do they make you hesitant to question my findings? Like all interpretations, mine must be held up to scrutiny. 
+**Look Again: Guiding Questions for the Use of this Web Exhibit by Educators**
+(There are imbrications among the following disciplinary approaches)
 
-I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent extra time and effort crafting the eyes. However, one needs to be able to read a "normals" image to test that hypothesis, and even then, the data are not incontrovertible. 
-It is not possible to view them without bias or in their original contexts. Attending to manufacture to trace artisan attention as a window into their intentions and perceived values or functions of the JPF. To do this we can look at ancient kilns, pottery workshops or texts pertaining to them, or in my case, the tool marks and surface impressions on the figurines. Where did the artisans spend their time? Cf. with breasts.
+-THINK LIKE A CONSERVATOR: What questions can be pursued by Reflectance Transformation Imaging? Pick a point of interest on one of the JPFs imaged on this site and theorize what it might reveal.
 
-RTI can tell surface information, aiding in object documentation (for example, to track deterioration over time) but it cannot tell measurement. We can learn about manufacture, which reflects artisan intentionality, which reflects artisan values and/or the values of the audiences creating demand for Judean Pillar Figurines to be created. 
+-THINK LIKE A COMPUTER SCIENTIST: How does the computer "know" the position of a light source in RTI capture?
 
-RTI uses and benefits:
--Reveal or clarify fine surface details (tool marks, fingerprints, thick paint)
--
+-THINK LIKE A CURATOR: What stories do Judean Pillar Figurines tell about Israelite women? 
 
-RTI limitations and drawbacks:
--Air of authority for images, as if they are self-evident
--Measurement not currently possible from RTI images
+-THINK LIKE AN ARCHAEOLOGIST: Judean Pillar Figurines are found ubiquitously throughout ancient Judean towns. What can broad find-spots (in public and private buildings, in streets, alleyways, and cisterns, as fill underneath floors and in mud brick walls, in tombs, and especially in and around Judean homes) reveal about the use life of these objects?
 
-How does technology affect our ability to see and interpret ancient artifacts?
+-THINK LIKE A BIBLICAL SCHOLAR: JPFs are from ancient Judah. Research ancient Judean conceptualizations of clay via the Bible. How does the fact that an object is made out of clay affect its interpretation (e.g., in terms of religious or economic value)?
 
-What do we assume to be true about these feminized bodies
+-THINK LIKE AN ART HISTORIAN: How does the Judean Pillar Figurine compare to feminized figures that came before? What does its gaze imply about its character?
 
-It could fit into your point about how it's not just documentation (which is what I still often see) ~this is good for my think about religion page! What uses are there for RTI then guide the teachers to appreciate each. 
+-THINK LIKE A SOCIOLOGIST: How can RTI data be used to pursue questions of Judean Pillar Figurine workshops and trade?
 
-the fragility, cultural preservation. Enabling access to our cultural history for future generations is a critical need that inspires our work. The imaging practices we teach support important scientific and art historical research. They also yield detailed records for preservation. 
+-THINK LIKE AN ANTHROPOLOGIST: How are figurines used and conceptualized in the modern world? Why does this object type have so much staying power?
