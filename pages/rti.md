@@ -34,14 +34,14 @@ View the remaining RTI images of this and other artifacts to find new points of 
 {% include feature/relight-page-viewer.html objectid="bad_0005" %}
 
 
-**Give Pause**
+## Give Pause
 
 Do you find that the images carry an air of authority? Do they make you hesitant to question my findings? Like all interpretations, mine must be held up to scrutiny. 
 
 I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent extra time and effort crafting the eyes. However, one needs to be able to read a "normals" image to test that hypothesis, and even then, the data are not incontrovertible. The northwest area of the left pupil has a bulge, but there is surface encrustation in most other places along this pupil's rim. The encrustation obfuscates our view of the evidence required to confirm my interpretation. Encrustation also exists around the pupil rim of the right eye. RTI provides detailed views of B2018.1.1's surface, contributing new data points that invite fresh questions. We should not accept the resulting interpretations without "reading" the RTI images for ourselves, which also involves checking that the images were collected using "best practice" standards that ensure each RTI image is reproducible <https://culturalheritageimaging.org/What_We_Offer/Downloads/DLN/index.html>.
 
 
-**Uses of RTI**
+## Uses of RTI
 
 -Object documentation, for example to track deterioration over time
 
@@ -55,7 +55,8 @@ I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent
 
 
 
-**Go Further**
+## Go Further
+
 To learn more about RTI, visit:
 
 -https://culturalheritageimaging.org/Technologies/RTI/
