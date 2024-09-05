@@ -18,6 +18,18 @@ Neither are scholars sure how these figurines were used. They are usually found 
 
 Cutting across the majority of interpretations about JPF identity and use is the sense that JPFs were positive figures meant to bring blessing. Virtually all interpreters agree on that much, due to elements like the JPF's slight smile and beneficent posture with hands-at-breasts.
 
-This web exhibit will give audiences the chance to see Judean Pillar Figurines again, in a new light.
+Use this web exhibit to see Judean Pillar Figurines again in new lights.
 
-For further reading, see:
+For further reading:
+
+Darby, Erin. Interpreting Judean Pillar Figurines: Gender and Empire in Judean Apotropaic
+Ritual. Forschungen Zum Alten Testament 2. Reihe 69. Tübingen: Mohr Siebeck, 2014.
+
+Kletter, Raz. The Judean Pillar-Figurines and the Archaeology of Asherah. BAR International Series.
+Oxford: Tempus Reparatum, 1996.
+
+Meyers, Carol. “Terracottas Without Texts: Judean Pillar Figurines in Anthropological Perspective.” In To Break Every Yoke: Essays in Honor of Marvin L. Chaney, edited by Robert B. Coote, Norman K.
+Gottwald, and Marvin L. Chaney, 115–30. Sheffield: Sheffield Phoenix Press, 2007.
+
+Ben-Shlomo, David and Lauren K. McCormick. "Judean Pillar Figurines and 'Bed Models' from Tell en Nasbeh." Bulletin of the American Schools of Oriental Research 386 (2021): 23-46.
+
