@@ -4,7 +4,7 @@ layout: essay
 permalink: /religion.html
 ---
 
-<div class="sketchfab-embed-wrapper w-100 ratio ratio-16x9"><iframe class="w-100" title="Judean Pillar Figurine head with false color" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/886634b5f96a4b449e2a3f86c1d54368/embed"></iframe></div>
+<div class="sketchfab-embed-wrapper ratio ratio-16x9"><iframe title="Judean Pillar Figurine head with false color" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/886634b5f96a4b449e2a3f86c1d54368/embed"></iframe></div>
 
 ## Look Again: Guiding Questions for the Use of this Web Exhibit by Educators
 
