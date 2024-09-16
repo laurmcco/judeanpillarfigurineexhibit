@@ -16,7 +16,7 @@ This research is illuminating, yet still not enough to "settle" the mysteries th
 
 ## Look Again: Guiding Questions for the Use of this Web Exhibit by Educators
 
-(There are imbrications among the following broad disciplinary approaches)
+(There are imbrications mong the following broad disciplinary approaches)
 
 - THINK LIKE A CONSERVATOR: What questions can be pursued by Reflectance Transformation Imaging? Pick a point of interest on one of the JPFs imaged on this site and theorize what it reveals.
 
