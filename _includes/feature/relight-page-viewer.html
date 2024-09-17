@@ -26,7 +26,7 @@
 {%- capture image_alt -%}{{ item.title }}{%- endcapture -%}
 <div class="text-center my-5">
     <figure class="figure">
-        <a href="{{ image_link | default: image_src }}" role="button" data-bs-toggle="modal" data-bs-target="#modelModal" data-bs-objectid="{{ item.objectid }}" data-bs-title="{{ item.title | escape }}" data-bs-url="{{ item.object_location | relative_url }}" data-bs-itemlink="{{ item_link }}" title="click to view RTI">
+        <a href="{{ image_link | default: image_src }}" role="button" data-bs-toggle="modal" data-bs-target="#modelModal" data-bs-objectid="{{ item.objectid }}" data-bs-title="{{ item.title | escape }}" data-bs-url="{{ item.object_location | relative_url }}" data-bs-format="{{ item.format | default: 'image' }}" data-bs-itemlink="{{ item_link }}" title="click to view RTI">
             <img class="img-fluid rounded lazyload" alt="{{ image_alt | default: image_caption | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ item.image_small | relative_url }}" >
             <small>Click to view RTI</small>
         </a>
