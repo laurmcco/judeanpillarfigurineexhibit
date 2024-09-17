@@ -38,10 +38,10 @@
     var viewerContainer = document.getElementById('modelContainer');
 
     // openlime viewer function for RTI
-    function initViewer(url) {
+    function initViewer(url, zoomformat) {
         var lime = new OpenLIME.Viewer('#openlime', { background:'black' });
         let layer = new OpenLIME.Layer({ 
-            layout: 'image', 
+            layout: zoomformat, 
             type:'rti',
             url: url
         });
@@ -71,12 +71,13 @@
         const itemTitle = btnTrigger.getAttribute('data-bs-title');
         const itemLink = btnTrigger.getAttribute('data-bs-itemlink');
         const itemUrl = btnTrigger.getAttribute('data-bs-url');
+        const itemFormat = btnTrigger.getAttribute('data-bs-format');
         // display item
         modalTitle.innerHTML = `<a href="${ itemLink }">${itemTitle}</a>`;
         
         // openlime viewer
         viewerContainer.innerHTML = `<div id="openlime"></div>`;
-        initViewer(itemUrl);
+        initViewer(itemUrl, itemFormat);
         
     });
     // On modal close 

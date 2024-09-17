@@ -8,8 +8,12 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 source,Source,,,,
 link_original,Original Link,,true,
-archive_link,Archived Link,,true,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
+museum_link,Museum Link,,true,
+head,Head,
+head_type,Type,
+applied_gear,Applied Gear,
+kletter,Kletter,
+type,DC Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license

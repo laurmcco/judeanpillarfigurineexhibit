@@ -51,6 +51,13 @@ I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent
 
 - Note: a current drawback of RTI compared to other methods of computational photography like 3D modeling is that RTI does not permit measurement. Also, not all materials respond well to RTI analysis. Shiny objects interfere with the method of RTI capture and are difficult to image.
 
+## Browse All RTIs
+
+{% assign rtis = site.data.web-exhibit | where: 'display_template', 'rti_viewer' %}
+<div class="row">{% for r in rtis %}
+<div class="col-6 col-md-4">{% include feature/relight-page-viewer.html objectid=r.objectid %}</div>{% endfor %}
+</div>
+
 ## Go Further
 
 To learn more about RTI, visit:
