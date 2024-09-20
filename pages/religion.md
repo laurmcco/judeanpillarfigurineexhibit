@@ -16,7 +16,7 @@ In the Hebrew Bible/Old Testament, light is a leading way that God is described 
 
 This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs. "Original context" is irretrievably lost. Nonetheless, we have uncovered new potentialities over the topic of presence. Without needing to debunk alternative options, one function of the JPF seems to involve making the divine immediate and present.
 
-Scholars of religion often study ephemeral topics. In our discipline, authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? I came as close as I could by noting: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to continually unravel new potentialities of meaning and modes of engagement for objects like these. Seeing more, as is the theme of this web exhibit, is always the goal.
+The study of religion often involves ephemeral topics. In this discipline, authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? I came as close as I could by noting: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to continually unravel new potentialities of meaning and modes of engagement for objects like these, without being enchanted by them. We do not aim to convert people either to a religion or away from one. Seeing more, as is the theme of this web exhibit, is the goal.
 
 
 ## Look Again: Guiding Questions for the Use of this Exhibit by Educators
