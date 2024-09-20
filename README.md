@@ -4,10 +4,10 @@ Judean Pillar Figurine Exhibit
 
 <https://laurmcco.github.io/judeanpillarfigurineexhibit/>
 
-"Let There Be Light: Recoloring Ancient Artifacts"
-by Lauren McCormick.
+"Let There Be Light: Relighting and Recoloring Ancient Artifacts"
+by Lauren McCormick (Princeton University’s Center for Culture, Society, and Religion).
 
-Exhibit design support from Julia Stone and Evan Peter Williamson (University of Idaho Library) from [CollectionBuilder](https://collectionbuilder.github.io/).
+Exhibit development provided by the [CollectionBuilder](https://collectionbuilder.github.io/) project including Julia Stone and Evan Peter Williamson from the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) at University of Idaho Library.
 
 ----------
 
@@ -15,7 +15,7 @@ Exhibit design support from Julia Stone and Evan Peter Williamson (University of
 
 <https://collectionbuilder.github.io/>
 
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
+CollectionBuilder is a project of University of Idaho Library's [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
 Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
 
 The basic theme is created using [Bootstrap](https://getbootstrap.com/).
