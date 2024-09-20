@@ -1,0 +1,48 @@
+<!-- full screen modal for podcast video-->
+<div class="modal fade" id="modelModal" tabindex="-1" aria-labelledby="modelModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="modelModalLabel">{{ page.title }}</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="modelContainer" class="h-100"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    // fullscreen modal parts
+    var modelModal = document.getElementById('modelModal');
+    var modalTitle = document.getElementById('modelModalLabel');
+    var viewerContainer = document.getElementById('modelContainer');
+    // On modal open load item data
+    modelModal.addEventListener('shown.bs.modal', event => {
+        // btn that triggered modal
+        const btnTrigger = event.relatedTarget;
+        // get item objectid
+        //const itemid = btnTrigger.getAttribute('data-bs-objectid');
+        // get item info
+        const itemTitle = btnTrigger.getAttribute('data-bs-title');
+        const itemYoutubeId = btnTrigger.getAttribute('data-bs-youtubeid');
+        // display item
+        modalTitle.innerHTML = itemTitle;
+        
+        // youtube embed
+        viewerContainer.innerHTML = `<iframe class="h-100 w-100" title="video embed ${itemTitle}" src="https://www.youtube-nocookie.com/embed/${itemYoutubeId}?rel=0&modestbranding=1" allowfullscreen></iframe>`;
+        
+    });
+    // On modal close 
+    modelModal.addEventListener('hide.bs.modal', event => {
+        // remove the viewers on close
+        viewerContainer.innerHTML = "";
+    });
+
+
+</script>
