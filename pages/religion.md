@@ -16,20 +16,20 @@ In the Hebrew Bible/Old Testament, light is a leading way that God is described 
 
 This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs. "Original context" is irretrievably lost. Nonetheless, we have uncovered new potentialities over the topic of presence. Without needing to debunk alternative options, one function of the JPF seems to involve making the divine immediate and present.
 
-The study of religion often involves ephemeral topics. In this discipline, authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? I came as close as I could by noting: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to continually unravel new potentialities of meaning and modes of engagement for objects like these, without being enchanted by them. We do not aim to convert people either to a religion or away from one. Seeing more, as is the theme of this web exhibit, is the goal.
+The study of religion often involves ephemeral topics. In this discipline, authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? I came as close as I could by noting: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to continually unravel new potentialities of meaning and modes of engagement for objects like these. At the same time, we are trained to resist being enchanted by them. We do not aim through our studies to convert people either to a religion or away from one. We study powerful cultural phenomena in order to detail and theorize how religion operates through time. Seeing more, as is the theme of this web exhibit, is the goal.
 
 
-## Look Again: Guiding Questions for the Use of this Exhibit by Educators
+## Look Again: Guiding Questions for the Use of this Site by Educators
 
 (There are imbrications among the following broad disciplinary approaches)
 
-- THINK LIKE A CONSERVATOR: What questions can be pursued by Reflectance Transformation Imaging? Pick a point of interest on one of the JPFs imaged on this site and theorize what it reveals.
+- THINK LIKE A CONSERVATOR: Pick a point of interest on one of the JPFs imaged on this site. What kinds of answers can Reflectance Transformation Imaging help you ask about that point of interest?
 
 - THINK LIKE A COMPUTER SCIENTIST: How does the computer "know" the position of a light source in RTI capture?
 
-- THINK LIKE A CURATOR: What stories might Judean Pillar Figurines tell about Israelite women? 
+- THINK LIKE A CURATOR: What is lost by presenting Judean Pillar Figurines digitally in this exhibit, as opposed to seeing them in person? What is gained?
 
-- THINK LIKE AN ARCHAEOLOGIST: Judean Pillar Figurines are found ubiquitously throughout ancient Judean towns. What can and can't broad find-spots (in public and private buildings, in streets, alleyways, and cisterns, as fill underneath floors and in mud brick walls, in tombs, and especially in and around Judean homes) reveal about the use life of these objects?
+- THINK LIKE AN ARCHAEOLOGIST: Judean Pillar Figurines are found ubiquitously throughout ancient Judean towns. What do broad find-spots (in public and private buildings, in streets, alleyways, and cisterns, as fill underneath floors and in mud brick walls, in tombs, and especially in and around Judean homes) reveal about the use life of these objects?
 
 - THINK LIKE A BIBLICAL SCHOLAR: JPFs are from ancient Judah. Research ancient Judean conceptualizations of clay via the Bible. How does the fact that an object is made out of clay affect its interpretation (e.g., in terms of religious or economic value)?
 
