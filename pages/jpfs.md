@@ -20,7 +20,7 @@ Neither are scholars sure how these figurines were used. They are usually found 
 
 Cutting across the majority of interpretations about JPF identity and use is the sense that JPFs were positive figures meant to bring blessing. Virtually all interpreters agree on that much, due to elements like the beneficent posture with hands-at-breasts and the slight smile that can be seen on many JPF faces.
 
-This web exhibit was designed to help you see Judean Pillar Figurines in new lights.
+Use this web exhibit to see Judean Pillar Figurines in new lights.
 
 
 ## Further Reading:
