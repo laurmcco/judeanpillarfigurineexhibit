@@ -30,6 +30,11 @@ Together, the Let There Be Light web exhibit and Getting Past Religion podcast a
     </a>
 </p>
 <p class="mb-3">
+    <a href="https://www.lib.uidaho.edu/" target="_blank" rel="noopener" title="University of Idaho Library">
+        <img class="img-fluid about-logos p-2 bg-white rounded" src="https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png" alt="University of Idaho Library" >
+    </a>
+</p>
+<p class="mb-3">
     <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener" title="Center for Digital Inquiry and Learning">
         <img class="img-fluid about-logos p-2 bg-white rounded" src="https://cdil.lib.uidaho.edu/assets/img/cdil-logo-black.svg" alt="Center for Digital Inquiry and Learning (CDIL)" >
     </a>
