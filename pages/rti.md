@@ -62,10 +62,10 @@ I use RTI views of B2018.1.1 to argue that Judean Pillar Figurine artisans spent
 
 To learn more about RTI, visit:
 
-- https://culturalheritageimaging.org/Technologies/RTI/
+- [Cultural Heritage Imaging RTI](https://culturalheritageimaging.org/Technologies/RTI/)
 
-- https://www.conservation-wiki.com/wiki/Reflectance_Transformation_Imaging_(RTI)
+- [AIC Wiki RTI](https://www.conservation-wiki.com/wiki/Reflectance_Transformation_Imaging_(RTI))
 
-- https://culturalheritageimaging.org/What_We_Do/Publications/
+- [Cultural Heritage Imaging publications](https://culturalheritageimaging.org/What_We_Do/Publications/)
 
-- https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en 
+- [Tom Malzbender on Google Scholar (developer of RTI)](https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en)
