@@ -8,6 +8,7 @@ var items = [
     { {% for f in fields %}{% if i[f.field] %}{{ f.field | escape | jsonify }}:{{ i[f.field] | strip | jsonify }}, {%- endif -%}{%- endfor -%}
         {% if i.image_thumb %}"img": {{ i.image_thumb | relative_url | jsonify }}, {%- endif -%} 
         {% if i.display_template %}"template": {{ i.display_template | jsonify }}, {%- endif -%}
+        {% assign children = site.data[site.metadata] | where: 'parentid', i.objectid %}{% if children %}"children": "{{ children | map: 'display_template' | uniq | join: ';' }}",{% endif %}
         {% if i.format %}"format": {{ i.format | jsonify }}, {%- endif -%}
         "title":{{ i.title | strip | escape | jsonify }}, "id":{{ i.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{%- endfor -%}
 ];
@@ -62,22 +63,33 @@ function makeCard(obj) {
     {% endunless %}{% endfor %}
     card += '</p>';
     // media type
-    if(obj.format && obj.format != "") {
-        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.format) + '">' + 
-        obj.format.split("/").pop().toUpperCase() + ' <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#';
-        if(obj.format.includes('image')){
+    card += '<p class="card-text"><small>';
+    if(obj.children && obj.children.includes('rti')) {
+        card += '<a class="btn btn-sm btn-outline-secondary m-1" href="{{ "/browse.html" | relative_url }}#rti">RTI <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#icon-default"/></svg></a>';
+    }
+    if(obj.children && obj.children.includes('sketchfab')) {
+        card += '<a class="btn btn-sm btn-outline-secondary m-1" href="{{ "/browse.html" | relative_url }}#sketchfab">3D <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#icon-default"/></svg></a>';
+    }
+    if(obj.children && obj.children.includes('image')) {
+        card += '<a class="btn btn-sm btn-outline-secondary m-1" href="{{ "/browse.html" | relative_url }}#image">IMAGE <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#icon-default"/></svg></a>';
+    }
+    if(obj.template && obj.template != "") {
+        card += '<a class="btn btn-sm btn-outline-secondary m-1" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.template) + '">' + 
+        obj.template.toUpperCase() + ' <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/cb-icons.svg" | relative_url }}#';
+        if(obj.template.includes('image')){
             card += 'icon-image';
-        } else if(obj.format.includes('audio')){
+        } else if(obj.template.includes('audio')){
             card += 'icon-audio';
-        } else if(obj.format.includes('video')){
+        } else if(obj.template.includes('video')){
             card += 'icon-video';
-        } else if(obj.format.includes('pdf')){
+        } else if(obj.template.includes('pdf')){
             card += 'icon-pdf';
         } else {
             card += 'icon-default';
         }
-        card += '"/></svg></a></small></p>';
+        card += '"/></svg></a>';
     }
+    card += '</small></p>';
     // view button
     card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Full Record</a>';
     // close divs
