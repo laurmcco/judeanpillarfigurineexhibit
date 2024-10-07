@@ -5,18 +5,18 @@ permalink: /rti.html
 custom-foot: js/relight-page-js.html
 ---
 
-Welcome to the Reflectance Transformation Imaging Laboratory. This is an open educational resource where you can view and manipulate three RTIs of a Judean Pillar Figurine fragment. This artifact is labelled B2018.1.1 and is held at the Badè Museum (Berkeley, CA). B2018.1.1 is a special object for the amount of paint it still contains.
+Welcome to the Reflectance Transformation Imaging Laboratory. Here you will find instructions for viewing, manipulating, and scrutinizing RTIs of Judean Pillar Figurine fragments.
 
 Click anywhere on the RTI images to change the direction of a virtual light. Zoom in to observe the figurine's surface and anything of interest upon it (for example tool marks, fingerprints, paint). Click the "layers" icon to explore various rendering environments: “normals” shows the surface shape through false color, “diffuse” shows surface shape with color removed, and “specular” shows the surface with a shiny quality. In "specular" mode, you can manipulate the direction of light at the same time that you increase or decrease the light’s intensity via a slider.
 
-1) Browse the first RTI image below. What colors do you see, and where? What surface characteristics do you observe?
+1) Browse the first RTI image below. This artifact (labelled B2018.1.1, held at the Badè Museum) is special for the amount of paint it still contains. What colors do you see, and where? What surface characteristics do you observe?
 
 2) Use the layers icon to enter the “normals” mode and the “specular” mode. There is one area that has a circular mark on the surface. Can you find it? Once you do, or if you can't find it after a few minutes, click the buttons below.
 
 {% include feature/relight-page-viewer.html objectid="bad_0004" %}
 
 {% capture pupil %}
-The pupil. For some reason, there is a rim around the pupil. Switch into the default/"light" mode. What color paint fills the pupil area? You have just discovered that RTI can show color not only chromatically but through imprints left on the surface, invisible to the naked eye. This pupil is perceptible through both color and a surface imprint. There is a similar circular mark in the other eye, though more faint. Now that you have some experience manipulating a virtual light and observing this artifact's surface topography, can you find the circular pupil mark in the other eye? It is difficult to see! Note: the right eye contains a small circular "inclusion" (like a pebble) that fell away from the surface after the figurine was fired. The circular mark you are looking for is larger, about the same size as the one in the left eye.
+The pupil. For some reason, there is a rim around the pupil. Switch into the default/"light" mode. What color paint fills the pupil area? You have just discovered that RTI can show color not only chromatically but through marks left on the surface, invisible to the naked eye. There is a similar circular mark in the pupil of the other eye, though more faint. Now that you have some experience manipulating a virtual light and observing this artifact's surface topography, can you find the circular mark in the other eye?  Note: the right eye contains a small circular "inclusion" (like a pebble) that fell away from the surface after the figurine was fired. The circular mark you are looking for is larger, about the same size as the one in the left eye.
 {% endcapture %}
 {% include feature/collapse.html button="Where is the circular mark on this figurine's surface?" color="outline-info" title="Answer" text=pupil %}
 

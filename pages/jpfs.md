@@ -16,11 +16,11 @@ Judean Pillar Figurines are a popular topic in biblical studies that have also c
 - Toys
 - Human worshipers 
 
-Neither are scholars sure how these figurines were used. They are usually found broken, leading many to assume ritual "deactivation" once a figurine filled its intended purpose(s). Others take breakage as evidence of iconoclasm in ancient Judah, as biblical texts of religious reform might lead one to expect (e.g., 2 Kings 18:4). Yet others conclude that JPFs are broken in structurally weak places, meaning that their breakage is not intentional or meaningful. In fact JPFs were excavated in all manner of places in Judean cities and towns: as fill under floors or in walls, in tombs (usually unbroken in those spaces), in streets and alleys, in public buildings, but most of all in and around people's homes. The domestic context opens conversations about JPFs as part of traditional and unofficial religion, the kind the Bible reports little about. 
+Neither are scholars sure how these figurines were used. They are usually found broken, leading many to assume ritual "deactivation" once a figurine filled its intended purpose(s). Others take breakage as evidence of iconoclasm in ancient Judah, as biblical texts of religious reform might lead one to expect (e.g., 2 Kings 18:4). Yet others conclude that JPFs are broken in structurally weak places, meaning that their breakage is not intentional or meaningful. In fact JPFs were excavated in all manner of places in Judean cities and towns: as fill under floors or in walls, in tombs (usually unbroken in those spaces), in streets and alleys, in public buildings, but most of all in and around people's homes. The domestic context opens conversations about JPFs as part of traditional and "unofficial" religion, the kind the Bible reports little about. 
 
 Cutting across the majority of interpretations about JPF identity and use is the sense that JPFs were positive figures meant to bring blessing. Virtually all interpreters agree on that much, due to elements like the beneficent posture with hands-at-breasts and the slight smile that can be seen on many JPF faces.
 
-Keep navigating this site to see new lights.
+Keep navigating this site to see more of the JPFs.
 
 
 ## Go Further:
