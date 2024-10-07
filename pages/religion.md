@@ -26,7 +26,7 @@ The study of religion often involves ephemeral topics. Authoritative interpretat
 
 - THINK LIKE A CONSERVATOR: Pick a point of interest on one of the JPFs imaged on this site. What kinds of questions can Reflectance Transformation Imaging help you ask about that point of interest?
 
-- THINK LIKE A COMPUTER SCIENTIST: How does the computer "know" the position of a light source in RTI capture?
+- THINK LIKE A COMPUTER SCIENTIST: How does RTI software "know" the position of a light source in RTI capture?
 
 - THINK LIKE A CURATOR: What is lost by presenting Judean Pillar Figurines digitally in this exhibit, as opposed to seeing them in person? What is gained?
 
