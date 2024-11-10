@@ -16,6 +16,8 @@ Click anywhere on the RTI images to change the direction of a virtual light. Zoo
 {% include feature/relight-page-viewer.html objectid="bad_0004" %}
 
 {% capture pupil %}
+{% include feature/image.html objectid="/objects/left-pupil-with-indicating-arrows.png" alt="close up of pupil area of statue with arrows indicating the rim" %}
+
 The pupil. For some reason, there is a rim around the pupil. Switch into the default/"light" mode. What color paint fills the pupil area? You have just discovered that RTI can show color not only chromatically but through marks left on the surface, invisible to the naked eye. There is a similar circular mark in the pupil of the other eye, though more faint. Now that you have some experience manipulating a virtual light and observing this artifact's surface topography, can you find the circular mark in the other eye?  Note: the right eye contains a small circular "inclusion" (like a pebble) that fell away from the surface after the figurine was fired. The circular mark you are looking for is larger, about the same size as the one in the left eye.
 {% endcapture %}
 {% include feature/collapse.html button="Where is the circular mark on this figurine's surface?" color="outline-info" title="Answer" text=pupil %}
