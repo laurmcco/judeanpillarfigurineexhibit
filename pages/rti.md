@@ -71,3 +71,6 @@ To learn more about RTI, visit:
 - [Cultural Heritage Imaging publications](https://culturalheritageimaging.org/What_We_Do/Publications/)
 
 - [Tom Malzbender on Google Scholar (developer of RTI)](https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en)
+
+## How is an RTI collected?
+View this time lapse video to see part of how RTI image-capture is performed
