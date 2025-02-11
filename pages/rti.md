@@ -73,4 +73,7 @@ To learn more about RTI, visit:
 - [Tom Malzbender on Google Scholar (developer of RTI)](https://scholar.google.com/citations?user=dQNRt2MAAAAJ&hl=en)
 
 ## How is an RTI file collected?
+
 View this time lapse video to see part of how RTI image capture is performed:
+
+{% include feature/video.html objectid="https://youtu.be/e2FrJGnIRnM" %}
