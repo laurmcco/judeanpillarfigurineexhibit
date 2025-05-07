@@ -77,3 +77,6 @@ To learn more about RTI, visit:
 View this time lapse video to see part of how RTI image capture is performed:
 
 {% include feature/video.html objectid="https://youtu.be/e2FrJGnIRnM" %}
+
+## How to cite
+McCormick, Lauren K. 2024. "Let There Be Light: Relighting and Recoloring Ancient Artifacts," access date, https://laurmcco.github.io/judeanpillarfigurineexhibit/
