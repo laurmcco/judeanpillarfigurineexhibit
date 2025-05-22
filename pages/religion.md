@@ -15,6 +15,8 @@ Where contexts of use have been found in the archaeological record, JPFs seem to
 
 In the Hebrew Bible/Old Testament, light is a leading way that God is described aniconically (without artistic representation). How can we investigate what it meant to stare into the eyes of a hybrid figure bathed in God's light? We might contextualize these descriptors against ancient Near Eastern texts or we might study conceptions of vision or visual encounter through time. We could also compare features (nudity, pose with hands at breasts, pillar figurines, style of jewelry) seen on the JPF to other objects with better-understood uses. 
 
+## Tolerating Ambiguity
+
 This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs. Original context is irretrievably lost. Nonetheless, technology helps to uncover new potentialities over the topic of presence. Without needing to debunk alternative options, one function of the JPF seems to involve making the divine immediate and present.
 
 The study of religion often involves ephemeral topics. Authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? This web exhibit leans into: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to unravel potentialities of meaning and modes of engagement for objects like these. At the same time, we are trained to resist being enchanted by them. We do not aim through our studies to convert people either to or away from a religion. We work to continually see and show more about important cultural phenomena, as is the theme of this web exhibit.
