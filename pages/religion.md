@@ -17,7 +17,7 @@ In the Hebrew Bible, light is a leading way that God is described aniconically (
 
 ## Tolerating Ambiguity
 
-This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we expect objects like these to be settled? Even if their original context was not lost, there is likely no single meaning to recover. Nonetheless, technology helps to uncover new potentialities, and one function of the JPF seems to involve making the divine immediate and present.
+This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we really expect objects like these to be settled? Even if their original context was not lost, there is likely no single meaning to recover. Nonetheless, technology helps to uncover new potentialities, and one function of the JPF seems to involve making the divine immediate and present.
 
 How can one qualify divine presence? This web exhibit develops three threads: an emphasis on eyes in JPF manufacture, biblical descriptions of God as bright, and JPF themes of hybridity and light. Religion scholars work to unravel the many meanings objects like these can hold—not to be enchanted by them nor to enchant/convert others through them—but to continually see more, as is the theme of this web exhibit.
 
