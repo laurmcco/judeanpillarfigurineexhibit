@@ -17,9 +17,9 @@ In the Hebrew Bible/Old Testament, light is a leading way that God is described 
 
 ## Tolerating Ambiguity
 
-This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs. Original context is irretrievably lost. Nonetheless, technology helps to uncover new potentialities over the topic of presence. Without needing to debunk alternative options, one function of the JPF seems to involve making the divine immediate and present.
+This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs. Their original context is irretrievably lost. Nonetheless, technology helps to uncover new potentialities, and one function of the JPF seems to involve making the divine immediate and present.
 
-The study of religion often involves ephemeral topics. Authoritative interpretations are not always desirable or even possible. For example, how can one qualify divine presence? This web exhibit leans into: 1) the emphasis on eyes in JPF manufacture, 2) biblical descriptions of God as bright, and 3) JPF themes of hybridity and light. Religion scholars work to unravel potentialities of meaning and modes of engagement for objects like these. At the same time, we are trained to resist being enchanted by them. We do not aim through our studies to convert people either to or away from a religion. We work to continually see and show more about important cultural phenomena, as is the theme of this web exhibit.
+How can one qualify divine presence? This web exhibit develops three threads: the emphasis on eyes in JPF manufacture, biblical descriptions of God as bright, and JPF themes of hybridity and light. Religion scholars work to unravel the many meanings objects like these can hold, not to be enchanted by them nor to enchant/convert others through them, but to continually see more. That is the theme of this web exhibit.
 
 
 ## Look Again: Guiding Questions for the Use of this Site by Educators
