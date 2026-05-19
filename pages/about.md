@@ -14,6 +14,7 @@ Together, the "Let There Be Light" web exhibit and "Getting Past Religion Video 
 
 **The Project.** Let There Be Light is an open educational resource that builds literacy around digital images, made possible by Princeton's Center for Culture, Society, and Religion. All artifacts presented are from the collection of the Badè Museum at Pacific School of Religion (Berkeley, CA). They derive from Tell en-Naṣbeh, the likely biblical site of Mizpah. Support to collect initial RTIs was provided by Syracuse University's Religion Department and Jewish Studies Program. Support to develop the web exhibit was provided by the [CollectionBuilder](https://collectionbuilder.github.io/) project including Julia Stone and Evan Peter Williamson from the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/) at University of Idaho Library. All advanced images were collected by [Cultural Heritage Imaging](https://culturalheritageimaging.org/).
 
+## How to cite
 All images and text on this exhibit are the intellectual property of Lauren K. McCormick unless otherwise stated. Images may be used for educational and non-commercial purposes with attribution. For all other uses please contact lauren.k.mccormick.phd@gmail.com
 
 <p class="mb-3">
