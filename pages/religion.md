@@ -15,12 +15,11 @@ Where contexts of use have been found in the archaeological record, JPFs seem to
 
 In the Hebrew Bible, light is a leading way that God is described aniconically (without artistic representation). How can we investigate what it meant to stare into the eyes of a hybrid figure bathed in God's light? We might contextualize these descriptors against ancient Near Eastern texts or we might study conceptions of vision or visual encounter through time. We could also compare features (nudity, pose with hands at breasts, pillar figurines, style of jewelry) seen on the JPF to objects that have better-understood uses. 
 
-## Tolerating Ambiguity
+## Building a Tolerance for Ambiguity
 
-This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we really expect objects like these to be settled? Even if their original context was not lost, there is likely no single meaning to find. Technology helps to uncover new potentialities, and one function of the JPF seems to involve making the divine immediate and present.
+This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we really expect objects like these to be settled? Even if their original context were not lost, there is likely no singular meaning to find. Technology as implemented here helps to uncover new potentialities, and one function of the JPF seems to involve making the divine immediate and present through a hybrid, supernatural being that watches.
 
-How can one qualify divine presence? This web exhibit develops three threads: an emphasis on eyes in JPF manufacture, biblical descriptions of God as bright, and JPF themes of hybridity and light. Religion scholars work to unravel the many meanings objects like these can hold—not to be enchanted by them nor to enchant/convert others through them—but to continually see more, as is the theme of this exhibit.
-
+Religion scholars work to unravel the many meanings objects like these hold. We study religious objects not for the purposes of personal devotion, nor to convert others, but to understand the diverse ways people have sought meaning, expressed belief, and made sense of the world. We study religion so that we may continually see more, as is the theme of this web exhibit.
 
 ## Look Again: Guiding Questions for the Use of this Site by Educators
 
