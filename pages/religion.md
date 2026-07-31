@@ -17,10 +17,10 @@ In the Hebrew Bible, light is a leading way that God is described aniconically (
 
 ## Building a Tolerance for Ambiguity
 
-This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we really expect objects like these to be settled? Even if their original context were not lost, there may never have been a single meaning to uncover. Technology as implemented here adds new data, revealing a new potentialities and possibilities. The new findings invite us to consider, among other interpretations, that JPFs made the divine immediate and present in people's homes through 
+This research is illuminating, yet still not enough to "settle" the mysteries that underlie JPFs.  But should we really expect objects like these to be settled? Even if their original context were not lost, there may never have been a single meaning to uncover. Technology as implemented here adds new data, revealing new potentialities and possibilities. The new findings invite us to consider, among other interpretations, that JPFs made the divine immediate and present in people's homes through 
 a hybrid, supernatural being that watched.
 
-Religion scholars work to unravel the many meanings objects like these hold. We study religious objects not for the purposes of personal devotion, nor to convert others, but to understand the diverse ways people have through time sought meaning, expressed belief, and made sense of the world. We study religion so that we may continually see more, as is the theme of this web exhibit.
+Religion scholars work to unravel the many meanings objects like these hold. We study religious objects not for the purposes of personal devotion, nor to convert others, but to understand the diverse ways people have sought meaning, expressed belief, and made sense of the world. We study religion so that we may continually see more, as is the theme of this web exhibit.
 
 ## Look Again: Guiding Questions for the Use of this Site by Educators
 
